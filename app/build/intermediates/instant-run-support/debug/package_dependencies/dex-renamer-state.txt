@@ -1,0 +1,19 @@
+#Sun Aug 20 02:06:11 IST 2017
+renamed.5=classes3.dex
+renamed.4=classes6.dex
+renamed.3=classes2.dex
+renamed.2=classes.dex
+renamed.1=classes5.dex
+renamed.0=classes4.dex
+base.5=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0542449db8744c003eca4da0bf6aced75a7ffe9d
+base.4=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_361af1a97207cfe619eb0a93289e3f1ffea6171d
+base.3=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1473b33b79156a97d2efab175bc13555419f7b0f
+base.2=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_b0c91f45b5c2e0241b5a2511dcb2eec0f59fb5f5
+base.1=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b02820fc299587212c1f40c1d1c1bd987582016a
+base.0=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f2b31f5b4815fbea5d052f51aad65f4d5ae92a3
+file.5=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0542449db8744c003eca4da0bf6aced75a7ffe9d/classes.dex
+file.4=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_361af1a97207cfe619eb0a93289e3f1ffea6171d/classes.dex
+file.3=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1473b33b79156a97d2efab175bc13555419f7b0f/classes.dex
+file.2=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_b0c91f45b5c2e0241b5a2511dcb2eec0f59fb5f5/classes.dex
+file.1=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b02820fc299587212c1f40c1d1c1bd987582016a/classes.dex
+file.0=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f2b31f5b4815fbea5d052f51aad65f4d5ae92a3/classes.dex

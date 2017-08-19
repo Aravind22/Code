@@ -1,0 +1,84 @@
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:background="#E0F2F1"
+    android:layout_height="match_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="horizontal"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Code++"
+            android:textColor="#FFFFFF"
+            android:textSize="65sp"
+            android:background="#1976D2"
+            android:textAlignment="center" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="C Programming"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp"
+            android:onClick="book"
+            android:background="#FF8A65"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:textColor="#FFFFFF"
+            android:text="C++ Programming"
+            android:onClick="mob"
+            android:textSize="30sp"
+            android:background="#FF8A65"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="Java Programming"
+            android:textSize="30sp"
+            android:onClick="jp"
+            android:textColor="#FFFFFF"
+            android:background="#FF8A65"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="Computer Networks"
+            android:textColor="#FFFFFF"
+            android:onClick="cn"
+            android:background="#FF8A65"
+            android:textSize="30sp" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:text="Operating System"
+            android:textSize="30sp"
+            android:textColor="#FFFFFF"
+            android:onClick="os"
+            android:background="#FF8A65"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="16dp"
+            android:text="Algorithms"
+            android:textSize="30sp"
+            android:onClick="al"
+            android:background="#FF8A65"
+            android:textColor="#FFFFFF"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

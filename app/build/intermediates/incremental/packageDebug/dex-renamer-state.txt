@@ -1,0 +1,7 @@
+#Sun Aug 20 02:06:11 IST 2017
+base.0=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_33de915068c7a99bf02deb31befcf74652337a9c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f3bdcf87c6bcf5aee84818043b81ef64cac2cf1b/classes.dex
+base.1=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f3bdcf87c6bcf5aee84818043b81ef64cac2cf1b
+file.0=/home/bat/Downloads/Code-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_33de915068c7a99bf02deb31befcf74652337a9c/classes.dex

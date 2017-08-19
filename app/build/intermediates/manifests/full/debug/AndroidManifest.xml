@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.go.aravind.code"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.go.aravind.code.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.go.aravind.code.Choice"
+            android:label="@string/title_activity_choice"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.go.aravind.code.TutChoice"
+            android:label="@string/title_activity_tut_choice"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.go.aravind.code.Questions"
+            android:label="@string/title_activity_questions"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.go.aravind.code.Question2"
+            android:label="@string/title_activity_question2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.go.aravind.code.Result"
+            android:label="@string/title_activity_result"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.go.aravind.code.Question3"
+            android:label="@string/title_activity_question3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.go.aravind.code.Question4"
+            android:label="@string/title_activity_question4"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.go.aravind.code.Question5"
+            android:label="@string/title_activity_question5"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>
